@@ -26,6 +26,8 @@ A custom 3D wireframe renderer built from scratch in Java featuring:
  ┣ 📜 Render3D.java          ← contains the logic of converting 3d coordinates to 2D and many other testing patterns.
  ┣ 📜 Renderer.java              ← pixel level writing logic
  ┣ 📜 Game.java              ← Unused but can be used for ticking and game logics //more support later (if possible)
+📦 Docs /
+ ┣ 📜ResearchPaper.pdf              ← Used this to make the rendering logic
 📜 male.obj            ← place any .obj model here
 ┗ 📜 README.md
 ```
